@@ -35,6 +35,8 @@ Dependency trees are constructed dynamically as users add formulas and apply ope
 5. Type "=SUM(A1:A3)" in the formula bar
 The result (60) should appear immediately in cell A4 without needing to save.
 Similarly we can apply for functions which are given above.
+![mimic](https://github.com/user-attachments/assets/0a52f1f8-a9f7-42d7-9745-f0562c760d01)
+
 # note:
 
 1. must use '=' before function and need of two arguments.
