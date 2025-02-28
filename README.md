@@ -37,8 +37,8 @@ The result (60) should appear immediately in cell A4 without needing to save.
 Similarly we can apply for functions which are given above.
 # note:
 
-1.must use '=' before function and need of two arguments.
-2.If a fuction should be applied for a single variable then take its cell for both arguments.
+1. must use '=' before function and need of two arguments.
+2. If a fuction should be applied for a single variable then take its cell for both arguments.
 # Features
 
 1. Spreadsheet Interface
@@ -49,7 +49,6 @@ Basic Cell Formatting: Users can apply formatting to cells such as bold, italics
 Row/Column Management: Users can add, delete, and resize rows and columns.
 2. Mathematical Functions
 The app supports the following functions:
-
 SUM: Calculates the sum of a range of cells.
 AVERAGE: Calculates the average of a range of cells.
 MAX: Returns the maximum value in a range of cells.
