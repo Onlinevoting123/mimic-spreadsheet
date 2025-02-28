@@ -35,7 +35,9 @@ Dependency trees are constructed dynamically as users add formulas and apply ope
 5. Type "=SUM(A1:A3)" in the formula bar
 The result (60) should appear immediately in cell A4 without needing to save.
 Similarly we can apply for functions which are given above.
-note:1.must use '=' before function and need of two arguments.
+# note:
+
+1.must use '=' before function and need of two arguments.
 2.If a fuction should be applied for a single variable then take its cell for both arguments.
 # Features
 
