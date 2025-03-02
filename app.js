@@ -510,13 +510,17 @@
                 }
                 let v = spreadsheetData[r][c];
                 let d=0
-                for(let i=0;i<v.length;i++){
-                    if (v[i]!=" "){
+                let i=0
+                while(i<v.length){
+                    if (v[i]!='&'){
                         d=i
                         break
                     }
+                    else{
+                        i=i+5
+                    }
+                    i+=1
                 }
-                console.log(v)
                 v=v.slice(d,v.length);
                 console.log(v);
                 p.push(v)
