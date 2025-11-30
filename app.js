@@ -1070,3 +1070,4 @@
  * textInput.innerHTML.slice(-1) = '='/'+'/.... > SEARCHING
  * press enter or move out of the cell > NORMAL
  */
+
